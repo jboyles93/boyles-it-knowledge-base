@@ -12,7 +12,7 @@ This central Knowledge Base (KB) is architected to improve internal **Customer S
 | Document ID | Category | Article Title | Target Audience |
 | :--- | :--- | :--- | :--- |
 | 📄 **KB-1004** | Account Security | [Workspace Account Sync & Re-Authentication](./KB-1004-password-sync.md) | All End-Users |
-| 📄 **KB-1005** | Remote Work | *VPN Disconnections & Network Conflicts (Drafting)* | Remote Employees |
+| 📄 **KB-1005** | Remote Work | [VPN Disconnections & Network Conflicts](./KB-1005-vpn-troubleshooting.md) | Remote Employees |
 | 📄 **KB-1006** | Onboarding | *Day 1 Workspace Set-Up Checklist (Drafting)* | New Hires |
 
 ---
