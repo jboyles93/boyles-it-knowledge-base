@@ -7,13 +7,14 @@ This central Knowledge Base (KB) is architected to improve internal **Customer S
 
 ---
 
-## 📚 Active Documentation Directory
+### 📖 Internal IT Systems & Support Guides (Help Desk SOPs)
 
-| Document ID | Category | Article Title | Target Audience |
+| Document ID | Category | Technical Guide Title | Target Audience |
 | :--- | :--- | :--- | :--- |
-| 📄 **KB-1004** | Account Security | [Workspace Account Sync & Re-Authentication](./KB-1004-password-sync.md) | All End-Users |
-| 📄 **KB-1005** | Remote Work | [VPN Disconnections & Network Conflicts](./KB-1005-vpn-troubleshooting.md) | Remote Employees |
-| 📄 **KB-1006** | Onboarding | [Day 1 Workspace Set-Up Checklist](./KB-1006-new-hire-onboarding.md) | New Hires |
+| 🔧 **KB-1004** | Desktop Support | [Workspace Account Sync & Re-Authentication](./workspace-sync-auth.md) | End Users / Internal Staff |
+| 🌐 **KB-1005** | Network Operations | [VPN Disconnections & Local Network Conflicts](./vpn-network-troubleshooting.md) | Remote Employees |
+| 📋 **KB-1006** | Service Coordination | [Day 1 Workspace Setup & Hardware Onboarding](./day1-onboarding-checklist.md) | New Hires & Managers |
+| 🔐 **KB-1007** | Identity & Access | [Standard Operating Procedure (SOP) for User Account Provisioning](./KB-1007-user-provisioning-sop.md) | Help Desk Tier 1 / Admins |
 
 ---
 
